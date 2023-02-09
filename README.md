@@ -1,1 +1,6 @@
-# assignment
+- UserInput should contain functions of numbers input and array input.
+- Program should contain at top of the Main file in comments: Name, PRN, Batch
+- Program should follow all the coding guidelines.
+- Program should contain comments for particular block of logic.
+- It is recommended to upload Program on your GitHub account.
+- Your Calculator repository on GitHub should contain a README file describing all functions or methods or definitions.
